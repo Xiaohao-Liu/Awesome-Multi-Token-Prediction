@@ -11,13 +11,13 @@ Multi-Token Prediction (MTP) is an emerging paradigm that enhances the efficienc
 
 | Title | Institution | Year | Paper | Code |
 |------|-------------|------|-------|------|
+| **L-MTP: Leap Multi-Token Prediction Beyond Adjacent Context for Large Language Models** | NUS | 2025 | [PDF](https://arxiv.org/pdf/2505.17505) | - |
 | **Improving Large Language Models with Concept-Aware Fine-Tuning** | NTU | 2025 | [PDF](https://arxiv.org/pdf/2506.07833) | [Code](https://github.com/michaelchen-lab/caft-llm) |
 | **Speech-Language Models with Decoupled Tokenizers and Multi-Token Prediction** | Fudan University | 2025 | [PDF](https://arxiv.org/pdf/2506.12537) | [Code](https://github.com/cnxupupup/SLM-Decoupled-MTP) |
 | **Chain-of-Action: Trajectory Autoregressive Modeling for Robotic Manipulation** | ByteDance Seed | 2025 | [PDF](https://arxiv.org/pdf/2506.09990) | [Project Page](https://chain-of-action.github.io/) |
 | **DONUT: A Decoder-Only Model for Trajectory Prediction** | RWTH Aachen University | 2025 | [PDF](https://arxiv.org/pdf/2506.06854) | [Code](https://vision.rwth-aachen.de/DONUT) |
 | **Generating Long Semantic IDs in Parallel for Recommendation** | UC Berkeley | KDD 2025 | [PDF](https://arxiv.org/pdf/2506.05781) | [Code](https://github.com/facebookresearch/RPG_KDD2025) |
 | **Pre-Training Curriculum for Multi-Token Prediction in Language Models** | Humboldt-Universität zu Berlin | 2025 | [PDF](https://arxiv.org/pdf/2505.22757) | - |
-| 🌟 **L-MTP: Leap Multi-Token Prediction Beyond Adjacent Context for Large Language Models** | NUS | 2025 | [PDF](https://arxiv.org/pdf/2505.17505) | - |
 | **Multi-Token Prediction Needs Registers** | Athena Research Center | 2025 | [PDF](https://arxiv.org/pdf/2505.10518) | - |
 | **MiMo: Unlocking the Reasoning Potential of Language Model – From Pretraining to Posttraining** | Xiaomi | 2025 | [PDF](https://arxiv.org/pdf/2505.07608) | [Code](https://github.com/xiaomimimo/MiMo) |
 | **VocalNet: Speech LLM with Multi-Token Prediction for Faster and High-Quality Generation** | SJTU | 2025 | [PDF](https://arxiv.org/pdf/2504.04060) | - |
@@ -29,8 +29,8 @@ Multi-Token Prediction (MTP) is an emerging paradigm that enhances the efficienc
 
 | Title | Institution | Year | Paper | Code |
 |------|-------------|------|-------|------|
-| 🌟 **Deepseek-v3 Technical Report** | DeepSeek AI | 2024 | [PDF](https://arxiv.org/pdf/2412.19437) | - |
-| 🌟 **Better & Faster Large Language Models via Multi-token Prediction** | Meta | ICML 2024 | [PDF](https://arxiv.org/pdf/2404.19737) | - |
+| **Deepseek-v3 Technical Report** | DeepSeek AI | 2024 | [PDF](https://arxiv.org/pdf/2412.19437) | - |
+| **Better & Faster Large Language Models via Multi-token Prediction** | Meta | ICML 2024 | [PDF](https://arxiv.org/pdf/2404.19737) | - |
 | **ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training** | USTC | 2020 | [PDF](https://arxiv.org/pdf/2001.04063) | - |
 
 ---
