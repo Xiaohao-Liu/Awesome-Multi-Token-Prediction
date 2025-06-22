@@ -1,5 +1,5 @@
 
-# 🌟 Awesome-Multi-Token-Prediction (MTP!)
+# 🌟 Awesome Multi-Token Prediction (MTP!)
 
 > *A curated list of papers, tools, and resources on Multi-Token Prediction (MTP) and related techniques in Large Language Models (LLMs), Speech-Language Models (SLMs), and more.*
 
