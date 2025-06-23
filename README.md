@@ -17,7 +17,7 @@ Multi-Token Prediction (MTP) is an emerging paradigm that enhances the efficienc
 | **Chain-of-Action: Trajectory Autoregressive Modeling for Robotic Manipulation** | ByteDance Seed | 2025 | [PDF](https://arxiv.org/pdf/2506.09990) | [Project Page](https://chain-of-action.github.io/) |
 | **DONUT: A Decoder-Only Model for Trajectory Prediction** | RWTH Aachen University | 2025 | [PDF](https://arxiv.org/pdf/2506.06854) | [Code](https://vision.rwth-aachen.de/DONUT) |
 | **Generating Long Semantic IDs in Parallel for Recommendation** | UC Berkeley | KDD 2025 | [PDF](https://arxiv.org/pdf/2506.05781) | [Code](https://github.com/facebookresearch/RPG_KDD2025) |
-| **Pre-Training Curriculum for Multi-Token Prediction in Language Models** | Humboldt-Universität zu Berlin | 2025 | [PDF](https://arxiv.org/pdf/2505.22757) | - |
+| **Pre-Training Curriculum for Multi-Token Prediction in Language Models** | Humboldt-Universität zu Berlin | 2025 | [PDF](https://arxiv.org/pdf/2505.22757) | [Code](https://github.com/aynetdia/mtp_curriculum) |
 | **Multi-Token Prediction Needs Registers** | Athena Research Center | 2025 | [PDF](https://arxiv.org/pdf/2505.10518) | - |
 | **MiMo: Unlocking the Reasoning Potential of Language Model – From Pretraining to Posttraining** | Xiaomi | 2025 | [PDF](https://arxiv.org/pdf/2505.07608) | [Code](https://github.com/xiaomimimo/MiMo) |
 | **VocalNet: Speech LLM with Multi-Token Prediction for Faster and High-Quality Generation** | SJTU | 2025 | [PDF](https://arxiv.org/pdf/2504.04060) | - |
