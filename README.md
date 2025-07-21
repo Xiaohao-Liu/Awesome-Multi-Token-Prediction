@@ -11,6 +11,7 @@ Multi-Token Prediction (MTP) is an emerging paradigm that enhances the efficienc
 
 | Title | Institution | Year | Paper | Code |
 |------|-------------|------|-------|------|
+| **Your LLM Knows the Future: Uncovering Its Multi-Token Prediction Potential** | Apple | 2025 | [PDF](https://arxiv.org/pdf/2507.11851v1) | - |
 | **L-MTP: Leap Multi-Token Prediction Beyond Adjacent Context for Large Language Models** | NUS | 2025 | [PDF](https://arxiv.org/pdf/2505.17505) | - |
 | **Improving Large Language Models with Concept-Aware Fine-Tuning** | NTU | 2025 | [PDF](https://arxiv.org/pdf/2506.07833) | [Code](https://github.com/michaelchen-lab/caft-llm) |
 | **Speech-Language Models with Decoupled Tokenizers and Multi-Token Prediction** | Fudan University | 2025 | [PDF](https://arxiv.org/pdf/2506.12537) | [Code](https://github.com/cnxupupup/SLM-Decoupled-MTP) |
