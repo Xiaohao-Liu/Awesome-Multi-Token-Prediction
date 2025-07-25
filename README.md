@@ -1,5 +1,5 @@
 
-# 🌟 Awesome Multi-Token Prediction (MTP!)
+# <img height=45 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png"/>  Awesome Multi-Token Prediction (MTP!)
 
 > *A curated list of papers, tools, and resources on Multi-Token Prediction (MTP) and related techniques in Large Language Models (LLMs), Speech-Language Models (SLMs), and more.*
 
@@ -20,10 +20,10 @@ config:
     tertiaryColor: '#ffffff'
 ---
 timeline
-    2018 : 1 paper (UC Berkeley)
-    2020 : 1 paper (USTC)
-    2024 : 🌟 4 papers (Meta, DeepSeek AI, Princeton, MIT, PKU)
-    2025 : 🌟🌟🌟 12 papers (Apple, NUS, NTU, Fudan, ByteDance, RWTH, UC Berkeley, HU Berlin, Athena, Xiaomi, SJTU, Sony)
+    2018: 1 paper (UC Berkeley)
+    2020: 1 paper (USTC)
+    2024: 🌟 4 papers (Meta, DeepSeek AI, Princeton, MIT, PKU)
+    2025: 🌟🌟🌟 12 papers (Apple, NUS, NTU, Fudan, ByteDance, RWTH, UC Berkeley, HU Berlin, Athena, Xiaomi, SJTU, Sony)
 
 ```
 
