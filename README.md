@@ -7,6 +7,26 @@ Multi-Token Prediction (MTP) is an emerging paradigm that enhances the efficienc
 
 ---
 
+```mermaid
+---
+config:
+  theme: base
+  themeVariables:
+    primaryColor: '#ffffff'
+    primaryTextColor: '#000000'
+    primaryBorderColor: '#ffffff'
+    lineColor: '#ffffff'
+    secondaryColor: '#ffffff'
+    tertiaryColor: '#ffffff'
+---
+timeline
+    2018 : 1 paper (UC Berkeley)
+    2020 : 1 paper (USTC)
+    2024 : 🌟 4 papers (Meta, DeepSeek AI, Princeton, MIT, PKU)
+    2025 : 🌟🌟🌟 12 papers (Apple, NUS, NTU, Fudan, ByteDance, RWTH, UC Berkeley, HU Berlin, Athena, Xiaomi, SJTU, Sony)
+
+```
+
 ## 🔬 Recent Papers (2025)
 
 | Title | Institution | Year | Paper | Code |
