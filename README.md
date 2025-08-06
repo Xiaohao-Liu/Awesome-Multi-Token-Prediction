@@ -34,7 +34,7 @@ timeline
 | **Enhancing Visual Planning with Auxiliary Tasks and Multi-token Prediction** | Meta | 2025 | [PDF](https://arxiv.org/pdf/2507.15130) | - |
 | **Your LLM Knows the Future: Uncovering Its Multi-Token Prediction Potential** | Apple | 2025 | [PDF](https://arxiv.org/pdf/2507.11851v1) | - |
 | **L-MTP: Leap Multi-Token Prediction Beyond Adjacent Context for Large Language Models** | NUS | 2025 | [PDF](https://arxiv.org/pdf/2505.17505) | - |
-| **Roll the dice & look before you leap: Going beyond the creative limits of next-token prediction** | Google | ICML2025 | [PDF](https://arxiv.org/pdf/2504.15266) | - |
+| **Roll the dice & look before you leap: Going beyond the creative limits of next-token prediction** (Outstanding paper) | Google | ICML 2025 | [PDF](https://arxiv.org/pdf/2504.15266) | - |
 | **Improving Large Language Models with Concept-Aware Fine-Tuning** | NTU | 2025 | [PDF](https://arxiv.org/pdf/2506.07833) | [Code](https://github.com/michaelchen-lab/caft-llm) |
 | **Speech-Language Models with Decoupled Tokenizers and Multi-Token Prediction** | Fudan University | 2025 | [PDF](https://arxiv.org/pdf/2506.12537) | [Code](https://github.com/cnxupupup/SLM-Decoupled-MTP) |
 | **Chain-of-Action: Trajectory Autoregressive Modeling for Robotic Manipulation** | ByteDance Seed | 2025 | [PDF](https://arxiv.org/pdf/2506.09990) | [Project Page](https://chain-of-action.github.io/) |
