@@ -23,7 +23,7 @@ timeline
     2018: 1 paper (UC Berkeley)
     2020: 1 paper (USTC)
     2024: 🌟 4 papers (Meta, DeepSeek AI, Princeton, MIT, PKU)
-    2025: 🌟🌟🌟 14 papers (Apple, NUS, Google, NTU, Fudan, ByteDance, RWTH, UC Berkeley, HU Berlin, Athena, Xiaomi, SJTU, Sony, Meta)
+    2025: 🌟🌟🌟 15 papers (Apple, NUS, Google, NTU, Fudan, ByteDance, RWTH, UC Berkeley, HU Berlin, Athena, Xiaomi, SJTU, Sony, Meta)
 
 ```
 
@@ -31,6 +31,7 @@ timeline
 
 | Title | Institution | Year | Paper | Code |
 |------|-------------|------|-------|------|
+| **Beyond Multi-Token Prediction: Pretraining LLMs with Future Summariesn** | Meta | 2025 | [PDF](https://arxiv.org/pdf/2510.14751) | - |
 | **Enhancing Visual Planning with Auxiliary Tasks and Multi-token Prediction** | Meta | 2025 | [PDF](https://arxiv.org/pdf/2507.15130) | - |
 | **Your LLM Knows the Future: Uncovering Its Multi-Token Prediction Potential** | Apple | 2025 | [PDF](https://arxiv.org/pdf/2507.11851v1) | - |
 | **L-MTP: Leap Multi-Token Prediction Beyond Adjacent Context for Large Language Models** | NUS | NeurIPS 2025 | [PDF](https://arxiv.org/pdf/2505.17505) | - |
