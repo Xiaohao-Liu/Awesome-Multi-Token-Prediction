@@ -29,13 +29,18 @@ timeline
 
 
 ## 🔬 Recent Papers (2026)
+
 | Title | Institution | Year | Paper | Code |
 |------|-------------|------|-------|------|
-|**NITP: Next Implicit Token Prediction for LLM Pre-training**|Shanghai Jiao Tong University, Xiaohongshu|ICML 2026|[PDF](https://arxiv.org/pdf/2605.24956)| [Code](https://github.com/aHapBean/NITP)|
-| **Efficient Training-Free Multi-Token Prediction via Embedding-Space Probing** | Qualcomm AI Research | 2026 | [PDF](https://arxiv.org/pdf/2603.17942) | - |
+| **Pair-In, Pair-Out: Latent Multi-Token Prediction for Efficient LLMs** | Renmin University of China | 2026 | [PDF](https://arxiv.org/abs/2605.27255) | [Code](https://github.com/AlbertTan404/PIPO) |
+| **Self-Distillation for Multi-Token Prediction** | Tencent | 2026 | [PDF](https://arxiv.org/abs/2603.23911) | - |
+| **Multi-Token Prediction via Self-Distillation** | University of Maryland | 2026 | [PDF](https://arxiv.org/abs/2602.06019) | [Code](https://github.com/jwkirchenbauer/mtp-lm) |
+| **Fast and Expressive Multi-Byte Prediction with Probabilistic Circuits** | University of Edinburgh | ICML 2026 | [PDF](https://arxiv.org/abs/2511.11346) | - |
+| **NITP: Next Implicit Token Prediction for LLM Pre-training** | Shanghai Jiao Tong University, Xiaohongshu | ICML 2026 | [PDF](https://arxiv.org/pdf/2605.24956) | [Code](https://github.com/aHapBean/NITP) |
+| **Efficient Training-Free Multi-Token Prediction via Embedding-Space Probing** | University of California | ICLR 2026 | [PDF](https://arxiv.org/pdf/2603.17942) | - |
+| **Parallel Token Prediction for Language Models** | Qualcomm AI Research | 2026 | [PDF](https://arxiv.org/abs/2512.21323) | - |
 | **Temporal Guidance for Large Language Models** | NUAA | 2026 | [PDF](https://arxiv.org/pdf/2601.21744) | - |
 | **MTP-S2UT: Enhancing Speech-to-Speech Translation Quality with Multi-Token Prediction** | NEU | ICASSP 2026 | [PDF](https://arxiv.org/pdf/2510.10003) | - |
-
 
 ## 🔬 Recent Papers (2025)
 
