@@ -32,16 +32,22 @@ timeline
 
 | Title | Institution | Year | Paper | Code |
 |------|-------------|------|-------|------|
-| **Pair-In, Pair-Out: Latent Multi-Token Prediction for Efficient LLMs** | Renmin University of China | 2026 | [PDF](https://arxiv.org/abs/2605.27255) | [Code](https://github.com/AlbertTan404/PIPO) |
-| **Self-Distillation for Multi-Token Prediction** | Tencent | 2026 | [PDF](https://arxiv.org/abs/2603.23911) | - |
+| **Efficient Training-Free Multi-Token Prediction via Embedding-Space Probing** | Qualcomm AI Research | 2026 | [PDF](https://arxiv.org/abs/2603.17942) | - |
+| **Fast and Expressive Multi-Token Prediction with Probabilistic Circuits** | University of Edinburgh | ICML 2026 | [PDF](https://arxiv.org/abs/2511.11346) | - |
+| **Beyond Multi-Token Prediction: Pretraining LLMs with Future Summaries** | Mila / CMU / FAIR at Meta | ICLR 2026 | [PDF](https://arxiv.org/abs/2510.14751) | - |
+| **Parallel Token Prediction** | (Will, Draxler, Karaletsos, Singh, Mandt et al.) | ICLR 2026 | [PDF](https://arxiv.org/abs/2512.21323) | - |
 | **Multi-Token Prediction via Self-Distillation** | University of Maryland | 2026 | [PDF](https://arxiv.org/abs/2602.06019) | [Code](https://github.com/jwkirchenbauer/mtp-lm) |
-| **Fast and Expressive Multi-Byte Prediction with Probabilistic Circuits** | University of Edinburgh | ICML 2026 | [PDF](https://arxiv.org/abs/2511.11346) | - |
-| **NITP: Next Implicit Token Prediction for LLM Pre-training** | Shanghai Jiao Tong University, Xiaohongshu | ICML 2026 | [PDF](https://arxiv.org/pdf/2605.24956) | [Code](https://github.com/aHapBean/NITP) |
-| **Efficient Training-Free Multi-Token Prediction via Embedding-Space Probing** | University of California | ICLR 2026 | [PDF](https://arxiv.org/pdf/2603.17942) | - |
-| **Parallel Token Prediction for Language Models** | Qualcomm AI Research | 2026 | [PDF](https://arxiv.org/abs/2512.21323) | - |
-| **Temporal Guidance for Large Language Models** | NUAA | 2026 | [PDF](https://arxiv.org/pdf/2601.21744) | - |
-| **MTP-S2UT: Enhancing Speech-to-Speech Translation Quality with Multi-Token Prediction** | NEU | ICASSP 2026 | [PDF](https://arxiv.org/pdf/2510.10003) | - |
-
+| **Self-Distillation for Multi-Token Prediction** | Tencent | 2026 | [PDF](https://arxiv.org/abs/2603.23911) | - |
+| **Pair-In, Pair-Out: Latent Multi-Token Prediction for Efficient LLMs** | Renmin University of China | 2026 | [PDF](https://arxiv.org/abs/2605.27255) | [Code](https://github.com/AlbertTan404/PIPO) |
+| **Temporal Guidance for Large Language Models** | NUAA | 2026 | [PDF](https://arxiv.org/abs/2601.21744) | - |
+| **MTP-S2UT: Enhancing Speech-to-Speech Translation Quality with Multi-Token Prediction** | NEU | ICASSP 2026 | [PDF](https://arxiv.org/abs/2510.10003) | - |
+| **How Transformers Learn to Plan via Multi-Token Prediction** | UCLA / SJTU / UPenn / RIKEN AIP | 2026 | [PDF](https://arxiv.org/abs/2604.11912) | - |
+| **Toward Consistent World Models with Multi-Token Prediction and Latent Semantic Enhancement** | Shenzhen University / Microsoft Research Asia | 2026 | [PDF](https://arxiv.org/abs/2604.06155) | [Code](https://github.com/QiminZhong/LSE-MTP) |
+| **Beyond Token-Level Policy Gradients for Complex Reasoning with LLMs** | HIT / Baidu | 2026 | [PDF](https://arxiv.org/abs/2602.14386) | - |
+| **BitLM: Unlocking Multi-Token Language Generation with Bitwise Continuous Diffusion** | SJTU / MMLab CUHK / CAS | 2026 | [PDF](https://arxiv.org/abs/2605.11577) | - |
+| **Efficient Document Parsing via Parallel Token Prediction** | Tencent / Renmin University of China | 2026 | [PDF](https://arxiv.org/abs/2603.15206) | - |
+| **DFlash: Block Diffusion for Flash Speculative Decoding** | z-lab | 2026 | [PDF](https://arxiv.org/abs/2602.06036) | [Code](https://github.com/z-lab/dflash) |
+| **MiMo-V2-Flash Technical Report** | Xiaomi | 2026 | [PDF](https://arxiv.org/abs/2601.02780) | [Code](https://github.com/XiaomiMiMo/MiMo-V2-Flash) |
 ## 🔬 Recent Papers (2025)
 
 | Title | Institution | Year | Paper | Code |
