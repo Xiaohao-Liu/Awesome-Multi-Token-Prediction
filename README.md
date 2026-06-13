@@ -32,22 +32,22 @@ timeline
 
 | Title | Institution | Year | Paper | Code |
 |------|-------------|------|-------|------|
-| **Efficient Training-Free Multi-Token Prediction via Embedding-Space Probing** | Qualcomm AI Research | 2026 | [PDF](https://arxiv.org/abs/2603.17942) | - |
-| **Fast and Expressive Multi-Token Prediction with Probabilistic Circuits** | University of Edinburgh | ICML 2026 | [PDF](https://arxiv.org/abs/2511.11346) | - |
-| **Beyond Multi-Token Prediction: Pretraining LLMs with Future Summaries** | Mila / CMU / FAIR at Meta | ICLR 2026 | [PDF](https://arxiv.org/abs/2510.14751) | - |
-| **Parallel Token Prediction** | (Will, Draxler, Karaletsos, Singh, Mandt et al.) | ICLR 2026 | [PDF](https://arxiv.org/abs/2512.21323) | - |
-| **Multi-Token Prediction via Self-Distillation** | University of Maryland | 2026 | [PDF](https://arxiv.org/abs/2602.06019) | [Code](https://github.com/jwkirchenbauer/mtp-lm) |
-| **Self-Distillation for Multi-Token Prediction** | Tencent | 2026 | [PDF](https://arxiv.org/abs/2603.23911) | - |
-| **Pair-In, Pair-Out: Latent Multi-Token Prediction for Efficient LLMs** | Renmin University of China | 2026 | [PDF](https://arxiv.org/abs/2605.27255) | [Code](https://github.com/AlbertTan404/PIPO) |
-| **Temporal Guidance for Large Language Models** | NUAA | 2026 | [PDF](https://arxiv.org/abs/2601.21744) | - |
-| **MTP-S2UT: Enhancing Speech-to-Speech Translation Quality with Multi-Token Prediction** | NEU | ICASSP 2026 | [PDF](https://arxiv.org/abs/2510.10003) | - |
-| **How Transformers Learn to Plan via Multi-Token Prediction** | UCLA / SJTU / UPenn / RIKEN AIP | 2026 | [PDF](https://arxiv.org/abs/2604.11912) | - |
-| **Toward Consistent World Models with Multi-Token Prediction and Latent Semantic Enhancement** | Shenzhen University / Microsoft Research Asia | 2026 | [PDF](https://arxiv.org/abs/2604.06155) | [Code](https://github.com/QiminZhong/LSE-MTP) |
-| **Beyond Token-Level Policy Gradients for Complex Reasoning with LLMs** | HIT / Baidu | 2026 | [PDF](https://arxiv.org/abs/2602.14386) | - |
-| **BitLM: Unlocking Multi-Token Language Generation with Bitwise Continuous Diffusion** | SJTU / MMLab CUHK / CAS | 2026 | [PDF](https://arxiv.org/abs/2605.11577) | - |
-| **Efficient Document Parsing via Parallel Token Prediction** | Tencent / Renmin University of China | 2026 | [PDF](https://arxiv.org/abs/2603.15206) | - |
-| **DFlash: Block Diffusion for Flash Speculative Decoding** | z-lab | 2026 | [PDF](https://arxiv.org/abs/2602.06036) | [Code](https://github.com/z-lab/dflash) |
-| **MiMo-V2-Flash Technical Report** | Xiaomi | 2026 | [PDF](https://arxiv.org/abs/2601.02780) | [Code](https://github.com/XiaomiMiMo/MiMo-V2-Flash) |
+| **Efficient Training-Free Multi-Token Prediction via Embedding-Space Probing** | Qualcomm AI Research | ICML 2026 | [PDF](https://arxiv.org/pdf/2603.17942) | - |
+| **Fast and Expressive Multi-Token Prediction with Probabilistic Circuits** | University of Edinburgh | ICML 2026 | [PDF](https://arxiv.org/pdf/2511.11346) | - |
+| **Beyond Multi-Token Prediction: Pretraining LLMs with Future Summaries** | Mila / CMU / FAIR at Meta | ICLR 2026 | [PDF](https://arxiv.org/pdf/2510.14751) | - |
+| **Parallel Token Prediction for Language Models** | University of California | ICLR 2026 | [PDF](https://arxiv.org/pdf/2512.21323) | - |
+| **Multi-Token Prediction via Self-Distillation** | University of Maryland | 2026 | [PDF](https://arxiv.org/pdf/2602.06019) | [Code](https://github.com/jwkirchenbauer/mtp-lm) |
+| **Self-Distillation for Multi-Token Prediction** | Tencent | 2026 | [PDF](https://arxiv.org/pdf/2603.23911) | - |
+| **Pair-In, Pair-Out: Latent Multi-Token Prediction for Efficient LLMs** | Renmin University of China | 2026 | [PDF](https://arxiv.org/pdf/2605.27255) | [Code](https://github.com/AlbertTan404/PIPO) |
+| **Temporal Guidance for Large Language Models** | NUAA | 2026 | [PDF](https://arxiv.org/pdf/2601.21744) | - |
+| **MTP-S2UT: Enhancing Speech-to-Speech Translation Quality with Multi-Token Prediction** | NEU | ICASSP 2026 | [PDF](https://arxiv.org/pdf/2510.10003) | - |
+| **How Transformers Learn to Plan via Multi-Token Prediction** | UCLA / SJTU / UPenn / RIKEN AIP | 2026 | [PDF](https://arxiv.org/pdf/2604.11912) | - |
+| **Toward Consistent World Models with Multi-Token Prediction and Latent Semantic Enhancement** | Shenzhen University / Microsoft Research Asia | 2026 | [PDF](https://arxiv.org/pdf/2604.06155) | [Code](https://github.com/QiminZhong/LSE-MTP) |
+| **Beyond Token-Level Policy Gradients for Complex Reasoning with LLMs** | HIT / Baidu | 2026 | [PDF](https://arxiv.org/pdf/2602.14386) | - |
+| **BitLM: Unlocking Multi-Token Language Generation with Bitwise Continuous Diffusion** | SJTU / MMLab CUHK / CAS | 2026 | [PDF](https://arxiv.org/pdf/2605.11577) | - |
+| **Efficient Document Parsing via Parallel Token Prediction** | Tencent / Renmin University of China | 2026 | [PDF](https://arxiv.org/pdf/2603.15206) | - |
+| **DFlash: Block Diffusion for Flash Speculative Decoding** | z-lab | ICML 2026 | [PDF](https://arxiv.org/pdf/2602.06036) | [Code](https://github.com/z-lab/dflash) |
+| **MiMo-V2-Flash Technical Report** | Xiaomi | 2026 | [PDF](https://arxiv.org/pdf/2601.02780) | [Code](https://github.com/XiaomiMiMo/MiMo-V2-Flash) |
 ## 🔬 Recent Papers (2025)
 
 | Title | Institution | Year | Paper | Code |
@@ -88,8 +88,8 @@ timeline
 
 | Title | Institution | Year | Paper | Code |
 |------|-------------|------|-------|------|
-| **DFlash: Block Diffusion for Flash Speculative Decoding** | z-lab | 2026 | [PDF](https://arxiv.org/abs/2602.06036) | [Code](https://github.com/z-lab/dflash) |
-| **EAGLE-3: Scaling up Inference Acceleration of Large Language Models via Training-Time Test** | Peking University | 2025 | [PDF](https://arxiv.org/abs/2503.01840) | [Code](https://github.com/SafeAILab/EAGLE) |
+| **DFlash: Block Diffusion for Flash Speculative Decoding** | z-lab | 2026 | [PDF](https://arxiv.org/pdf/2602.06036) | [Code](https://github.com/z-lab/dflash) |
+| **EAGLE-3: Scaling up Inference Acceleration of Large Language Models via Training-Time Test** | Peking University | 2025 | [PDF](https://arxiv.org/pdf/2503.01840) | [Code](https://github.com/SafeAILab/EAGLE) |
 | **Accelerating Codec-Based Speech Synthesis with Multi-Token Prediction and Speculative Decoding** | KAIST | ICASSP 2025 | [PDF](https://arxiv.org/pdf/2410.13839) | [Project Page](https://mm.kaist.ac.kr/projects/mtp/) |
 | **EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty** | Peking University | ICML 2024 | [PDF](https://arxiv.org/pdf/2401.15077) | [Code](https://github.com/SafeAILab/EAGLE?tab=readme-ov-file) |
 | **Hydra: Sequentially-Dependent Draft Heads for Medusa Decoding** | MIT | COLM 2024 | [PDF](https://arxiv.org/pdf/2402.05109) | [Code](https://github.com/zankner/Hydra) |
