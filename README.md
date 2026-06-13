@@ -47,13 +47,12 @@ timeline
 | **BitLM: Unlocking Multi-Token Language Generation with Bitwise Continuous Diffusion** | SJTU / MMLab CUHK / CAS | 2026 | [PDF](https://arxiv.org/pdf/2605.11577) | - |
 | **Efficient Document Parsing via Parallel Token Prediction** | Tencent / Renmin University of China | 2026 | [PDF](https://arxiv.org/pdf/2603.15206) | - |
 | **DFlash: Block Diffusion for Flash Speculative Decoding** | z-lab | ICML 2026 | [PDF](https://arxiv.org/pdf/2602.06036) | [Code](https://github.com/z-lab/dflash) |
-| **MiMo-V2-Flash Technical Report** | Xiaomi | 2026 | [PDF](https://arxiv.org/pdf/2601.02780) | [Code](https://github.com/XiaomiMiMo/MiMo-V2-Flash) |
 ## 🔬 Recent Papers (2025)
 
 | Title | Institution | Year | Paper | Code |
 |------|-------------|------|-------|------|
-| **Peeking Into The Future For Contextual Biasing** | Samsung Research America | 2025 | [PDF](https://arxiv.org/pdf/2512.17657) | - |
 | **L-MTP: Leap Multi-Token Prediction Beyond Adjacent Context for Large Language Models** | NUS | NeurIPS 2025 | [PDF](https://arxiv.org/pdf/2505.17505) | [Code](https://github.com/Xiaohao-Liu/L-MTP) |
+| **Peeking Into The Future For Contextual Biasing** | Samsung Research America | 2025 | [PDF](https://arxiv.org/pdf/2512.17657) | - |
 | **MiMo-V2-Flash Technical Report** | Xiaomi | 2025 | [PDF](https://github.com/XiaomiMiMo/MiMo-V2-Flash/blob/main/paper.pdf) | [Code](https://github.com/XiaomiMiMo/MiMo-V2-Flash) |
 | **FastMTP: Accelerating LLM Inference with Enhanced Multi-Token Prediction** | Tencent | 2025 | [PDF](https://arxiv.org/pdf/2509.18362) | [Code]([Tencent-BAC/FastMTP](https://github.com/Tencent-BAC/FastMTP)) |
 | **Beyond Multi-Token Prediction: Pretraining LLMs with Future Summariesn** | Meta | 2025 | [PDF](https://arxiv.org/pdf/2510.14751) | - |
