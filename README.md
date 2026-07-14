@@ -32,6 +32,7 @@ timeline
 
 | Title | Institution | Year | Paper | Code |
 |------|-------------|------|-------|------|
+| **How Transformers Learn to Plan via Multi-Token Prediction** | University of California | COLM 2026 | [PDF](https://arxiv.org/abs/2604.11912) | - |
 | **Efficient Training-Free Multi-Token Prediction via Embedding-Space Probing** | Qualcomm AI Research | ICML 2026 | [PDF](https://arxiv.org/pdf/2603.17942) | - |
 | **Fast and Expressive Multi-Token Prediction with Probabilistic Circuits** | University of Edinburgh | ICML 2026 | [PDF](https://arxiv.org/pdf/2511.11346) | - |
 | **Beyond Multi-Token Prediction: Pretraining LLMs with Future Summaries** | Mila / CMU / FAIR at Meta | ICLR 2026 | [PDF](https://arxiv.org/pdf/2510.14751) | - |
