@@ -16,7 +16,11 @@ Venue information is included only when it is confirmed by official proceedings,
 
 | Title | Institution | Venue | Paper | Code |
 |------|-------------|------|-------|------|
+| **LoopMTP: A looped transformer guided by latent multi-token prediction** | Lamarr Institute / University of Bonn / Fraunhofer IAIS | arXiv 2026 | [arXiv](https://arxiv.org/abs/2608.03624) | - |
 | **AdaMTP: An Adaptive Training Paradigm for Multi-Token Prediction** | CUHK | arXiv 2026 | [arXiv](https://arxiv.org/abs/2608.00434) | - |
+| **AngelSpec: Towards Real-World High Performance Inference with Speculative Decoding** | Tencent | arXiv 2026 | [arXiv](https://arxiv.org/abs/2607.25852) | [Code](https://github.com/Tencent/AngelSpec) |
+| **Windowed-MTP: Removing the Full-Context Draft-KV Tax at Million-Token Context** | NVIDIA | arXiv 2026 | [arXiv](https://arxiv.org/abs/2607.21535) | [Code](https://github.com/avalliappan-nvidia/windowed-mtp-b200) |
+| **K-Forcing: Joint Next-K-Token Decoding via Push-Forward Language Modeling** | Alibaba DAMO Academy / Hupan Lab / Zhejiang University / HKUST | arXiv 2026 | [arXiv](https://arxiv.org/abs/2606.10820) | [Code](https://github.com/alibaba-damo-academy/K-Forcing) |
 | **Pair-In, Pair-Out: Latent Multi-Token Prediction for Efficient LLMs** | Renmin University of China | arXiv 2026 | [arXiv](https://arxiv.org/abs/2605.27255) | [Code](https://github.com/RedAI-Infra/PIPO) |
 | **BitLM: Unlocking Multi-Token Language Generation with Bitwise Continuous Diffusion** | SJTU / MMLab CUHK / CAS | arXiv 2026 | [arXiv](https://arxiv.org/abs/2605.11577) | - |
 | **How Transformers Learn to Plan via Multi-Token Prediction** | UCLA / SJTU / UPenn / RIKEN AIP | COLM 2026 | [arXiv](https://arxiv.org/abs/2604.11912) | - |
@@ -72,6 +76,8 @@ Venue information is included only when it is confirmed by official proceedings,
 
 | Title | Institution | Venue | Paper | Code |
 |------|-------------|------|-------|------|
+| **AngelSpec: Towards Real-World High Performance Inference with Speculative Decoding** | Tencent | arXiv 2026 | [arXiv](https://arxiv.org/abs/2607.25852) | [Code](https://github.com/Tencent/AngelSpec) |
+| **Windowed-MTP: Removing the Full-Context Draft-KV Tax at Million-Token Context** | NVIDIA | arXiv 2026 | [arXiv](https://arxiv.org/abs/2607.21535) | [Code](https://github.com/avalliappan-nvidia/windowed-mtp-b200) |
 | **DFlash: Block Diffusion for Flash Speculative Decoding** | z-lab | ICML 2026 | [arXiv](https://arxiv.org/abs/2602.06036) | [Code](https://github.com/z-lab/dflash) |
 | **EAGLE-3: Scaling up Inference Acceleration of Large Language Models via Training-Time Test** | Peking University | NeurIPS 2025 | [NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2025/hash/c7b5a35ea98b62512a869c19ea7b03cb-Abstract-Conference.html) | [Code](https://github.com/SafeAILab/EAGLE) |
 | **Accelerating Codec-based Speech Synthesis with Multi-Token Prediction and Speculative Decoding** | KAIST | ICASSP 2025 | [arXiv](https://arxiv.org/abs/2410.13839) | [Project Page](https://mm.kaist.ac.kr/projects/mtp/) |
