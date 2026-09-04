@@ -44,6 +44,7 @@ Venue information is included only when it is confirmed by official proceedings,
 
 | Title | Institution | Venue | Paper | Code |
 |------|-------------|------|-------|------|
+| **Next-Latent Prediction Transformers Learn Compact World Models** | Microsoft Research | arXiv 2025 | [arXiv](https://arxiv.org/abs/2511.05963) | [Code](https://github.com/JaydenTeoh/NextLat) |
 | **MiMo-V2-Flash Technical Report** | Xiaomi | Technical Report 2025 | [Report](https://github.com/XiaomiMiMo/MiMo-V2-Flash) | [Code](https://github.com/XiaomiMiMo/MiMo-V2-Flash) |
 | **FastMTP: Accelerating LLM Inference with Enhanced Multi-Token Prediction** | Tencent | arXiv 2025 | [arXiv](https://arxiv.org/abs/2509.18362) | [Code](https://github.com/Tencent-BAC/FastMTP) |
 | **Your LLM Knows the Future: Uncovering Its Multi-Token Prediction Potential** | Apple | arXiv 2025 | [arXiv](https://arxiv.org/abs/2507.11851) | - |
