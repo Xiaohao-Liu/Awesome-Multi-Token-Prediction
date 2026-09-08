@@ -7,7 +7,7 @@ Multi-Token Prediction (MTP) is an emerging paradigm that enhances the efficienc
 
 ---
 
-![](./img.png)
+![](./image.png)
 
 Venue information is included only when it is confirmed by official proceedings, an official conference program, or the paper's current metadata. Unpublished works are labeled as arXiv preprints or technical reports. Year sections follow the formal publication year when available; otherwise, they use the first public release year.
 
