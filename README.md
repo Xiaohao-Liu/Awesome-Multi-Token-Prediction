@@ -16,6 +16,7 @@ Venue information is included only when it is confirmed by official proceedings,
 
 | Title | Institution | Venue | Paper | Code |
 |------|-------------|------|-------|------|
+| **Multi-Token Prediction Done Right** | MIT | arXiv 2026 | [arXiv](https://arxiv.org/abs/2610.38331) | [Code](https://github.com/JaydenTeoh/Soft-MTP) |
 | **LoopMTP: A looped transformer guided by latent multi-token prediction** | Lamarr Institute / University of Bonn / Fraunhofer IAIS | arXiv 2026 | [arXiv](https://arxiv.org/abs/2608.03624) | - |
 | **AdaMTP: An Adaptive Training Paradigm for Multi-Token Prediction** | CUHK | arXiv 2026 | [arXiv](https://arxiv.org/abs/2608.00434) | - |
 | **AngelSpec: Towards Real-World High Performance Inference with Speculative Decoding** | Tencent | arXiv 2026 | [arXiv](https://arxiv.org/abs/2607.25852) | [Code](https://github.com/Tencent/AngelSpec) |
